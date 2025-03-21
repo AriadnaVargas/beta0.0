@@ -1,5 +1,6 @@
 import { Check } from "lucide-react"
-import { Button } from "@/components/ui/button"
+import { Button } from "pmc/src/components/ui/button"
+import React from "react"
 
 const plans = [
   {

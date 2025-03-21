@@ -1,3 +1,5 @@
+import React from "react"
+
 const testimonials = [
   {
     quote: "StreamLine has revolutionized our team's workflow. It's a game-changer!",

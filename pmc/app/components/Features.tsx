@@ -1,4 +1,5 @@
 import { CheckCircle, Zap, Users, TrendingUp } from "lucide-react"
+import React from "react"
 
 const features = [
   {
